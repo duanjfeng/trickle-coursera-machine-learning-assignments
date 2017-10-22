@@ -9,7 +9,7 @@ Completed assignments using Octave for Coursera Machine Learning by Andrew Ng, S
 
 ## 关于编程语言
 由于Matlab太大，需要付费，Octave又没有用过，一开始就在纠结是不是直接用Python实现（当然Python都忘记了，也需要再学一遍）。<br/><br/>
-但是课程推荐用Octave，于是下载安装了4.0.3（http://wiki.octave.org/Octave_for_macOS），自始至终也没有出过问题，所以Mac用户请放心使用。<br/><br/>
+但是课程推荐用Octave，于是下载安装了4.0.3 [Octave_for_macOS](http://wiki.octave.org/Octave_for_macOS) ，自始至终也没有出过问题，所以Mac用户请放心使用。<br/><br/>
 
 ## 关于作业
 通常作业指南会让你完成一个任务提交一次，但是也可以集中一次提交，我是选的后一种方式。<br/><br/>
